@@ -12,15 +12,22 @@ Hi, I’m **Ayush Kumar**, a fresher B.Tech CSE student with a passion for backe
 
 ## 🚀 Live Projects
 
+## 🚀 Live Projects
+
 ### 📧 Email Campaign Scheduler  
-Schedule and send emails to multiple recipients at a specified time using Node.js, MongoDB, and Nodemailer.  
-Frontend built with Express-Handlebars. Tracks delivery status per recipient.  
-🔗 [Live Demo](https://email-campaign-scheduler-i2by.onrender.com)
+Schedule and send emails to multiple recipients at a specified time using **Node.js**, **MongoDB**, and **Nodemailer**.  
+Frontend built with **Express-Handlebars**. Tracks delivery status per recipient.  
+🔗 [Live Demo](https://email-campaign-scheduler-i2by.onrender.com)  
+📂 [GitHub Repository](https://github.com/Ayush78588/Email-Campaign-Scheduler)
+
+---
 
 ### 🔗 Shortly - URL Shortener  
 A simple and efficient URL shortener application.  
 Users can input long URLs and get a short version with redirection support.  
-🔗 [Live Demo](https://shortly-ll9e.onrender.com)
+🔗 [Live Demo](https://shortly-ll9e.onrender.com)  
+📂 [GitHub Repository](https://github.com/Ayush78588/Shortly)
+
 
 ## 📜 Certifications
 
