@@ -12,8 +12,6 @@ Hi, I’m **Ayush Kumar**, a fresher B.Tech CSE student with a passion for backe
 
 ## 🚀 Live Projects
 
-## 🚀 Live Projects
-
 ### 📧 Email Campaign Scheduler  
 Schedule and send emails to multiple recipients at a specified time using **Node.js**, **MongoDB**, and **Nodemailer**.  
 Frontend built with **Express-Handlebars**. Tracks delivery status per recipient.  
