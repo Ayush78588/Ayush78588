@@ -22,7 +22,7 @@ Frontend built with **Express-Handlebars**. Tracks delivery status per recipient
 
 ### 🔗 Shortly - URL Shortener  
 A simple and efficient URL shortener application.  
-Users can input long URLs and get a short version with redirection support.  
+Users can first login, then input long URLs and get a short version with redirection support.  
 Tech: Node.js, Express, MongoDB, JWT, bcrypt  
 🔗 [Live Demo](https://shortly-ll9e.onrender.com)  
 📂 [GitHub Repository](https://github.com/Ayush78588/Shortly)
