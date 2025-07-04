@@ -1,9 +1,9 @@
 ## 👋 About Me
 
-Hi, I’m **Ayush Kumar**, a fresher B.Tech CSE student with a passion for backend development and cloud computing. I enjoy turning ideas into practical, efficient web applications that solve real-world problems.
+Hi, I’m **Ayush Kumar**, a fresher B.Tech CSE student with a passion for Full-Stack Development and cloud computing. I enjoy turning ideas into practical, efficient web applications that solve real-world problems.
 
 - 🎓 **Education**: B.Tech in Computer Science & Engineering (Fresher)
-- 💻 **Tech Stack**: Node.js, Express.js, MongoDB, JavaScript, REST APIs, Nodemailer, EC2
+- 💻 **Tech Stack**: Node.js, Express.js, MongoDB, React, JavaScript, REST APIs, Nodemailer, EC2
 - ☁️ **Interests**: Backend architecture, server-side scheduling, and cloud deployment(EC2)
 
 ---
