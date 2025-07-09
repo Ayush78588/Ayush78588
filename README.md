@@ -13,8 +13,7 @@ Hi, I’m **Ayush Kumar**, a fresher B.Tech CSE student with a passion for Full-
 ## 🚀 Live Projects
 
 ### 🚗 Car Showcase Platform
-A sleek, responsive full-stack car listing platform to search, view, and add cars.
-Built with **React, Node.js, Express, MongoDB**, and styled using Tailwind CSS.
+A full-stack web application where users can browse, add, edit, delete and search car listings. Built with the MERN stack (MongoDB, Express, React, Node.js), it offers a smooth UI, user authentication, and media upload support.
 Features include dynamic routing, car view, and admin car management via backend API.  
 🔗 [Live Demo](https://car-showcase-gamma-three.vercel.app/)  
 📂 [GitHub Repository](https://github.com/Ayush78588/car-showcase)
