@@ -1,3 +1,4 @@
+📄 [Download My Resume](https://github.com/Ayush78588/Ayush78588/raw/main/AyushResume.pdf)
 ## 👋 About Me
 
 Hi, I’m **Ayush Kumar**, a fresher B.Tech CSE student with a passion for Full-Stack Development and cloud computing. I enjoy turning ideas into practical, efficient web applications that solve real-world problems.
