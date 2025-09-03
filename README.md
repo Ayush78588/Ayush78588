@@ -20,6 +20,16 @@ Features include dynamic routing, car view, and admin car management via backend
 📂 [GitHub Repository](https://github.com/Ayush78588/car-showcase)
 
 ---
+### 📝 Secure Notes App
+A full-stack web application where users can securely create, view, and manage personal notes. Built with the **MERN stack (MongoDB, Express, React, Node.js)**, it features **email + OTP login** and **Google OAuth authentication** for a smooth and secure experience.  
+
+Features include protected routes, live OTP countdown, and responsive UI for managing notes efficiently.  
+
+🔗 [Live Demo](https://secure-notes-virid.vercel.app/)  
+📂 [GitHub Repository](https://github.com/Ayush78588/secure-notes)
+
+---
+
 
 ### 📧 Email Campaign Scheduler  
 Schedule and send emails to multiple recipients at a specified time using **Node.js**, **MongoDB**, and **Nodemailer**.  
