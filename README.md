@@ -45,6 +45,18 @@ Users can first login, then input long URLs and get a short version with redirec
 🔗 [Live Demo](https://shortly-ll9e.onrender.com)  
 📂 [GitHub Repository](https://github.com/Ayush78588/Shortly)
 
+---
+
+### 🌦 Weather Now
+A simple React application that allows users to search and view real-time weather updates for any city worldwide. Built with **React + Vite** and styled with **CSS**, it uses the **Open-Meteo API** for live weather data.  
+
+Features include responsive design, error handling for invalid cities, and a clean, card-based UI for displaying temperature, wind speed, and time.  
+
+🔗 [Live Demo](https://kcz3tq-5173.csb.app/)  
+📂 [GitHub Repository](https://github.com/Ayush78588/Weather_App)
+
+---
+
 
 ## 📜 Certifications
 
