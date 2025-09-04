@@ -53,7 +53,7 @@ A simple React application that allows users to search and view real-time weathe
 Features include responsive design, error handling for invalid cities, and a clean, card-based UI for displaying temperature, wind speed, and time.  
 
 🔗 [Live Demo](https://kcz3tq-5173.csb.app/)  
-📂 [GitHub Repository](https://github.com/Ayush78588/Weather_App)
+📂 [GitHub Repository](https://github.com/Ayush78588/weather-app)
 
 ---
 
