@@ -13,6 +13,20 @@ Hi, I’m **Ayush Kumar**, a fresher B.Tech CSE student with a passion for Full-
 
 ## 🚀 Live Projects
 
+### 💸 Paytm Clone
+A full-stack **digital wallet app** where users can sign up, log in, view their account balance, check transaction history, and send/receive money by searching other users.  
+
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+- **Deployment**: Hosted on **AWS EC2** for reliable backend + client deployment  
+
+Features include secure authentication, responsive design, and real-time updates for transactions.  
+
+🔗 [Live Demo](http://3.107.87.223)   
+📂 [GitHub Repository](https://github.com/Ayush78588/Paytm_App)  
+
+
+---
+
 ### 🚗 Full Stack Car Listing App
 A full-stack web application where users can browse, add, edit, delete and search car listings. Built with the **MERN stack (MongoDB, Express, React, Node.js)**, it offers a smooth UI, user authentication, and media upload support.
 Features include dynamic routing, car view, and admin car management via backend API.  
