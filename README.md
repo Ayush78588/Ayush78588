@@ -21,7 +21,7 @@ A full-stack **digital wallet app** where users can sign up, log in, view their 
 
 Features include secure authentication, responsive design, and real-time updates for transactions.  
 
-🔗 [Live Demo](http://3.107.87.223)   
+🔗 [Live Demo](http://ec2-3-107-87-223.ap-southeast-2.compute.amazonaws.com)   
 📂 [GitHub Repository](https://github.com/Ayush78588/Paytm_App)  
 
 
