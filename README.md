@@ -1,4 +1,4 @@
-📄 [My Resume](https://drive.google.com/file/d/1qAa3hRo1O71l7lFirup6Zz1h1s3Lt5EB/view?usp=sharing)
+📄 [My Resume](https://drive.google.com/file/d/10rEGP7hJ8RW6-sdwBUUzKcYThwPaXC93/view?usp=sharing)
 ## 👋 About Me
 
 Hi, I’m **Ayush Kumar**, a fresher B.Tech CSE student with a passion for Full-Stack Development and cloud computing. I enjoy turning ideas into practical, efficient web applications that solve real-world problems.
