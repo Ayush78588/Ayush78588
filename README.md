@@ -1,11 +1,29 @@
 📄 [My Resume](https://drive.google.com/file/d/10rEGP7hJ8RW6-sdwBUUzKcYThwPaXC93/view?usp=sharing)
 ## 👋 About Me
 
-Hi, I’m **Ayush Kumar**, a fresher B.Tech CSE student with a passion for Full-Stack Development and cloud computing. I enjoy turning ideas into practical, efficient web applications that solve real-world problems.
+# Hi, I'm Ayush Kumar 👋
 
-- 🎓 **Education**: B.Tech in Computer Science & Engineering (Fresher)
-- 💻 **Tech Stack**: React.js, Node.js, Express.js, MongoDB, SQL, React, JavaScript, REST APIs, Nodemailer, EC2
-- ☁️ **Interests**: Backend architecture, server-side scheduling, and cloud deployment(EC2)
+I'm a Full Stack Developer and B.Tech Computer Science & Engineering graduate. I enjoy building web applications, developing backend APIs, and working on practical solutions to real-world problems.
+
+### 🎓 Education
+B.Tech in Computer Science & Engineering
+
+### 💻 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, MySQL, SQL
+- **Tools & Cloud:** Git, GitHub, Postman, AWS EC2
+
+### 🚀 Areas of Interest
+
+- Backend Development and REST API Design
+- Database Management and Query Optimization
+- Third-party API Integrations
+- Frontend Development and UI Implementation
+- Cloud Deployment and Server-side Scheduling
+
+I enjoy learning new technologies, improving my development skills, and building projects that solve practical problems.
 
 ---
 
